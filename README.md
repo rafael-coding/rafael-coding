@@ -1,6 +1,12 @@
 # 💫 About Me:
-👨🏻‍💻 Desenvolvedor FullStack Pleno <br>💻Laravel (PHP) | VueJS | NuxtJS | ReactJS | NextJS | JavaScript | TypeScript | Bootstrap | CSS | HTML<br>🌴 Rio de Janeiro - BR | 27 anos<br>
 
+I'm currently employed at the company ally:code as a full-stack developer.
+
+I am a developer that is constantly learning the best way to deliver value through systems that can be used (and maintained) by everyone. I plan, create, put into practice. I enjoy taking on new challenges!
+
+I am a systems development specialist with the ability to work throughout the whole software lifecycle and the foundational knowledge necessary to learn and program in any language.
+
+👨🏻‍💻 technologies I work with: <br>💻Laravel (PHP) | VueJS | NuxtJS | ReactJS | NextJS | JavaScript | TypeScript | Bootstrap | CSS | HTML
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rafael_coding/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafaeldeabreuferreira/) 
