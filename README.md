@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 Desenvolvedor FullStack Pleno <br>💻Laravel (PHP) | VueJS | ReactJS | JavaScript | Bootstrap | CSS | HTML<br>🌴 Rio de Janeiro - BR | 26 anos<br>
+👨🏻‍💻 Desenvolvedor FullStack Pleno <br>💻Laravel (PHP) | VueJS | NuxtJS | ReactJS | NextJS | JavaScript | TypeScript | Bootstrap | CSS | HTML<br>🌴 Rio de Janeiro - BR | 27 anos<br>
 
 
 ## 🌐 Socials:
