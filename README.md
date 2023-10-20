@@ -1,10 +1,8 @@
 # 💫 About Me:
 
-I'm currently employed at the company ally:code as a full-stack developer.
+Full-Stack focused in Laravel | Software engineer 
 
-I am a developer that is constantly learning the best way to deliver value through systems that can be used (and maintained) by everyone. I plan, create, put into practice. I enjoy taking on new challenges!
-
-I am a systems development specialist with the ability to work throughout the whole software lifecycle and the foundational knowledge necessary to learn and program in any language.
+Lover of Technology and coding
 
 👨🏻‍💻 technologies I work with: <br>💻Laravel (PHP) | VueJS | NuxtJS | ReactJS | NextJS | JavaScript | TypeScript | Bootstrap | CSS | HTML
 
